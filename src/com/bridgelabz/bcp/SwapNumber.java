@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.bcp;
 
 public class SwapNumber {
     public static void main(String[] args) {
