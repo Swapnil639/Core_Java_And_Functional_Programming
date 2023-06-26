@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.functional;
 
 import java.util.Scanner;
 import java.io.PrintWriter;
