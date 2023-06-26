@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.functional;
 
 public class SumOfThreeInteger {
     public static void main(String[] args) {
